@@ -14,7 +14,7 @@ module.exports = (grunt) ->
   # Host
   # ----
   # You could set this to your IP address to expose it over a local internet.
-  hostname = '192.168.1.163'
+  hostname = 'localhost'
 
   # Configuration
   # =============
